@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/Bataninja/apizoologico_frank#readme",
   "dependencies": {
-    "dotenv": "^17.2.2",
+    "dotenv": "^17.2.3",
     "express": "^5.1.0",
-    "mongoose": "^8.18.1"
+    "mongoose": "^8.19.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
